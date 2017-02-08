@@ -1,0 +1,12 @@
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\bin\Debug\Örnek1.exe.config
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\bin\Debug\Örnek1.exe
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\bin\Debug\Örnek1.pdb
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\obj\Debug\Örnek1.csprojResolveAssemblyReference.cache
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\obj\Debug\Örnek1.Form1.resources
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\obj\Debug\Örnek1.Properties.Resources.resources
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\obj\Debug\Örnek1.csproj.GenerateResource.Cache
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\obj\Debug\Örnek1.exe
+C:\Users\BMLAB-30\Desktop\Örnek1\Örnek1\obj\Debug\Örnek1.pdb
+G:\GörselProgramlama\8-02-17\Örnek1\Örnek1\bin\Debug\Örnek1.exe.config
+G:\GörselProgramlama\8-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.exe
+G:\GörselProgramlama\8-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.pdb
