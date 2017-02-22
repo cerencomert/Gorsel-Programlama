@@ -16,3 +16,6 @@ G:\GörselProgramlama\15-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.csprojResolveAs
 G:\GörselProgramlama\15-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.Form1.resources
 G:\GörselProgramlama\15-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.Properties.Resources.resources
 G:\GörselProgramlama\15-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.csproj.GenerateResource.Cache
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\15-02-17\Örnek1\Örnek1\bin\Debug\Örnek1.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\15-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\15-02-17\Örnek1\Örnek1\obj\Debug\Örnek1.pdb

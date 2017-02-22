@@ -1,0 +1,12 @@
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\bin\Debug\Örnek 3.exe.config
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\bin\Debug\Örnek 3.exe
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\bin\Debug\Örnek 3.pdb
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\obj\Debug\Örnek 3.csprojResolveAssemblyReference.cache
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\obj\Debug\Örnek_3.Form1.resources
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\obj\Debug\Örnek_3.Properties.Resources.resources
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\obj\Debug\Örnek 3.csproj.GenerateResource.Cache
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\obj\Debug\Örnek 3.exe
+C:\Users\kodbi\Desktop\Örnek 3\Örnek 3\obj\Debug\Örnek 3.pdb
+G:\GörselProgramlama\22-02-17\Örnek3\Örnek 3\bin\Debug\Örnek 3.exe.config
+G:\GörselProgramlama\22-02-17\Örnek3\Örnek 3\obj\Debug\Örnek 3.exe
+G:\GörselProgramlama\22-02-17\Örnek3\Örnek 3\obj\Debug\Örnek 3.pdb

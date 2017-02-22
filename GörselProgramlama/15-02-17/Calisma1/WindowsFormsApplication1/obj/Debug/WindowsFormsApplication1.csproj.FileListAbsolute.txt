@@ -6,3 +6,6 @@ C:\Users\kodbi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Deb
 C:\Users\kodbi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\kodbi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\kodbi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\15-02-17\Calisma1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\15-02-17\Calisma1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\15-02-17\Calisma1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
