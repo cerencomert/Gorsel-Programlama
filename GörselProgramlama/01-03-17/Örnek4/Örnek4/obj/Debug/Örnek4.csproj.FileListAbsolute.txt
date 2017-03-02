@@ -1,0 +1,12 @@
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe.config
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.csprojResolveAssemblyReference.cache
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.Form1.resources
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.Properties.Resources.resources
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.csproj.GenerateResource.Cache
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\bin\Debug\Örnek4.pdb
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.exe
+C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.pdb
+G:\GörselProgramlama\01-03-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe.config
+G:\GörselProgramlama\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.exe
+G:\GörselProgramlama\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.pdb
