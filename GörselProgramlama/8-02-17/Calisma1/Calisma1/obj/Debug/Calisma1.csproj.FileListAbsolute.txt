@@ -7,3 +7,6 @@ D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Calisma
 D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Calisma1\Calisma1\obj\Debug\Calisma1.csproj.GenerateResource.Cache
 D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Calisma1\Calisma1\obj\Debug\Calisma1.exe
 D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Calisma1\Calisma1\obj\Debug\Calisma1.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Calisma1\Calisma1\bin\Debug\Calisma1.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Calisma1\Calisma1\obj\Debug\Calisma1.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Calisma1\Calisma1\obj\Debug\Calisma1.pdb
