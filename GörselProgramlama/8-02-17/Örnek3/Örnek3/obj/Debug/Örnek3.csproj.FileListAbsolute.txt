@@ -10,3 +10,12 @@ C:\Users\BMLAB-30\Desktop\Örnek3\Örnek3\obj\Debug\Örnek3.pdb
 G:\GörselProgramlama\8-02-17\Örnek3\Örnek3\bin\Debug\Örnek3.exe.config
 G:\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.exe
 G:\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\bin\Debug\Örnek3.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\bin\Debug\Örnek3.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\bin\Debug\Örnek3.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.csprojResolveAssemblyReference.cache
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.Form1.resources
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.Properties.Resources.resources
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek3\Örnek3\obj\Debug\Örnek3.csproj.GenerateResource.Cache

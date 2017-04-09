@@ -19,3 +19,6 @@ D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Örnek2
 D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Örnek2\Örnek2\obj\Debug\Örnek2.Form1.resources
 D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Örnek2\Örnek2\obj\Debug\Örnek2.Properties.Resources.resources
 D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Kendi Çalışmalarım\8-02-17\Örnek2\Örnek2\obj\Debug\Örnek2.csproj.GenerateResource.Cache
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek2-Randomsayi\Örnek2\bin\Debug\Örnek2.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek2-Randomsayi\Örnek2\obj\Debug\Örnek2.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\8-02-17\Örnek2-Randomsayi\Örnek2\obj\Debug\Örnek2.pdb
