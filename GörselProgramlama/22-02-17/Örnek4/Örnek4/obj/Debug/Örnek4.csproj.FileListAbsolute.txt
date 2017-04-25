@@ -16,3 +16,12 @@ G:\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.csprojResolveAs
 G:\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.Form1.resources
 G:\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.Properties.Resources.resources
 G:\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.csproj.GenerateResource.Cache
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.csprojResolveAssemblyReference.cache
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.Form1.resources
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.Properties.Resources.resources
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\obj\Debug\Örnek4.csproj.GenerateResource.Cache
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\22-02-17\Örnek4\Örnek4\bin\Debug\Örnek4.pdb

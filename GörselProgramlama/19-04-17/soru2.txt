@@ -1,0 +1,20 @@
+
+class Faktoriyel
+{
+
+public int Hesapla(params int[] sayilar)
+{
+
+int toplam=0, fkt;
+foreach(int sayi in sayi)
+{
+
+fkt=1;
+for(int i=1; i<=sayi; i++)
+fkt*=i;
+toplam+=fkt;
+}
+
+}
+
+}

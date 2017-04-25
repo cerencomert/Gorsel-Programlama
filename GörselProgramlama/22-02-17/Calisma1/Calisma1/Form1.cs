@@ -15,7 +15,7 @@ namespace Calisma1
         public Form1()
         {
             InitializeComponent();
-            this.Size = new Size(600, 720);
+           
         }
 
         private void button1_MouseEnter(object sender, EventArgs e)

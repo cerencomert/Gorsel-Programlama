@@ -10,3 +10,6 @@ C:\Users\BMLAB-30\Desktop\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.pdb
 G:\GörselProgramlama\01-03-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe.config
 G:\GörselProgramlama\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.exe
 G:\GörselProgramlama\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.pdb
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\01-03-17\Örnek4\Örnek4\bin\Debug\Örnek4.exe.config
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.exe
+D:\Ceren\Okul\2.Sınıf\GorselProgramlama\Gorsel-Programlama\GörselProgramlama\01-03-17\Örnek4\Örnek4\obj\Debug\Örnek4.pdb

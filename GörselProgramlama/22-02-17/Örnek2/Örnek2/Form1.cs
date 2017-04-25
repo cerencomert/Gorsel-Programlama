@@ -28,9 +28,6 @@ namespace Örnek2
 
             button1.Left = en;
             button1.Top = boy; */
-
-           
-
         }
 
         private void button2_MouseHover(object sender, EventArgs e)

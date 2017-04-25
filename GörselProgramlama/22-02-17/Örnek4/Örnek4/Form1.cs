@@ -43,7 +43,7 @@ namespace Örnek4
 
         private void kontrol_Click(object sender, EventArgs e)
         {
-            string gelenDeger = "Perşembe";
+            string gelenDeger = "Cuma";
             //string gelenDeger= "Ocak";
 
             Gunler gunDeger = (Gunler)Enum.Parse(typeof(Gunler), gelenDeger);

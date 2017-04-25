@@ -28,9 +28,11 @@ namespace Örnek1
         {
             
              string OgrenciAd = textBox1.Text;
+            try {
                 Ogrenci ogrenciler = (Ogrenci)Enum.Parse(typeof(Ogrenci), OgrenciAd);
                 MessageBox.Show("Öğrenci Adı : " + ogrenciler.ToString());
-                MessageBox.Show("Öğrenci No : " + (int)ogrenciler); 
+                MessageBox.Show("Öğrenci No : " + (int)ogrenciler);
+            }
 
             catch (Exception sorun)
             {
