@@ -50,16 +50,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="AnaEkran.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AnaEkran.Designer.cs">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="TarifDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TarifDuzenle.Designer.cs">
+      <DependentUpon>TarifDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TarifEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TarifEkle.Designer.cs">
+      <DependentUpon>TarifEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TarifGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TarifGoruntule.Designer.cs">
+      <DependentUpon>TarifGoruntule.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaEkran.resx">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -70,6 +88,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TarifDuzenle.resx">
+      <DependentUpon>TarifDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TarifEkle.resx">
+      <DependentUpon>TarifEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TarifGoruntule.resx">
+      <DependentUpon>TarifGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -80,6 +107,18 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Fonts\Roboto-Black.ttf" />
+    <None Include="Fonts\Roboto-BlackItalic.ttf" />
+    <None Include="Fonts\Roboto-Bold.ttf" />
+    <None Include="Fonts\Roboto-BoldItalic.ttf" />
+    <None Include="Fonts\Roboto-Italic.ttf" />
+    <None Include="Fonts\Roboto-Light.ttf" />
+    <None Include="Fonts\Roboto-LightItalic.ttf" />
+    <None Include="Fonts\Roboto-Medium.ttf" />
+    <None Include="Fonts\Roboto-MediumItalic.ttf" />
+    <None Include="Fonts\Roboto-Regular.ttf" />
+    <None Include="Fonts\Roboto-Thin.ttf" />
+    <None Include="Fonts\Roboto-ThinItalic.ttf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
