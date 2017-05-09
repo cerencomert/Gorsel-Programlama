@@ -56,13 +56,18 @@
     <Compile Include="AnaEkran.Designer.cs">
       <DependentUpon>AnaEkran.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TarifDuzenle.cs">
+    <Compile Include="FotoGoster.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TarifDuzenle.Designer.cs">
-      <DependentUpon>TarifDuzenle.cs</DependentUpon>
+    <Compile Include="FotoGoster.Designer.cs">
+      <DependentUpon>FotoGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tarifDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tarifDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="TarifEkle.cs">
       <SubType>Form</SubType>
@@ -79,6 +84,9 @@
     <EmbeddedResource Include="AnaEkran.resx">
       <DependentUpon>AnaEkran.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FotoGoster.resx">
+      <DependentUpon>FotoGoster.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -87,10 +95,8 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="TarifDuzenle.resx">
-      <DependentUpon>TarifDuzenle.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="TarifEkle.resx">
       <DependentUpon>TarifEkle.cs</DependentUpon>
     </EmbeddedResource>
@@ -119,9 +125,53 @@
     <None Include="Fonts\Roboto-Regular.ttf" />
     <None Include="Fonts\Roboto-Thin.ttf" />
     <None Include="Fonts\Roboto-ThinItalic.ttf" />
+    <None Include="tarifDataSet.xsc">
+      <DependentUpon>tarifDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tarifDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tarifDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tarifDataSet.xss">
+      <DependentUpon>tarifDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nophoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OlivebranchSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olivebranchsmallflip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elmali-kurabiye-tarifi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limonlu-kek-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menemen-tarifi-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mozaik-pasta-tarifi-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pancake-tarifi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesto-soslu-kabak-dilimleri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ton-balikli-wrap-tarifi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
